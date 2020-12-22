@@ -16,8 +16,8 @@ body{
   position: relative;
   border: solid white 5px;
   border-radius: 100%;
-  width: 50vmin;
-  height: 50vmin;
+  width: 49vmin;
+  height: 49vmin;
   background-image: url("background.png");
   background-repeat: no-repeat;
   background-size: contain;
