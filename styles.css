@@ -16,11 +16,11 @@ body{
   position: relative;
   border: solid white 5px;
   border-radius: 100%;
-  width: 49vmin;
-  height: 49vmin;
+  width: 50vmin;
+  height: 50vmin;
   background-image: url("background.png");
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
 }
 .hand{
   position: absolute;
